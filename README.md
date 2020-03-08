@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://aetherblack.github.io/css/main.css" />
+
 # AetherBlack - Yohan Fèvre
 
 <ul>
