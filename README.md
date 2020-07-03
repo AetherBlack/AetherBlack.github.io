@@ -10,8 +10,10 @@
 </ul>
 <script src="https://tryhackme.com/badge/10171"></script>
 
-## Press
+## Presse
 
 <ul>
   <li>ANSSI (FCSC Prequals) - <a href="https://www.ssi.gouv.fr/actualite/france-cybersecurity-challenge-les-resultats-de-la-phase-de-preselection-nationale/">France Cybersecurity Challenge : Les résultats de la phase de présélection nationale</a> [<a href="https://aetherblack.github.io/pdf/FCSC_Prequals_2020.pdf">PDF</a>]</li>
+
+  <li>ANSSI (FCSC Final) - <a href="https://www.ssi.gouv.fr/actualite/le-classement-final-du-france-cybersecurite-challenge-2020-devoile/">Le classement final du France Cybersecurity Challenge 2020 dévoilé</a> [<a href="https://aetherblack.github.io/pdf/FCSC_Final_2020.pdf">PDF</a>]</li>
 </ul>
