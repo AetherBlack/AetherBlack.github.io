@@ -19,7 +19,7 @@
    </li>
 </ul>
 
-## Cyber
+## CyberSecurity Challenge
 
 <ul>
   <li><a href="https://www.root-me.org/Black-Aether">Profil root-me</a></li>
