@@ -5,7 +5,7 @@
 ## Contact
 
 <ul>
-  <li><img src="https://protonmail.com/favicon.ico" width="1.5%" height="1.5%"><a href="mailto:yohan.fevre@protonmail.com">Mail</a></li>
+  <li><a href="mailto:yohan.fevre@protonmail.com"><img src="https://protonmail.com/favicon.ico" width="1.5%" height="1.5%"> Mail</a></li>
 </ul>
 
 ## Réseaux sociaux
