@@ -12,7 +12,7 @@
 
 <ul>
   <li>
-      <img src="https://fr.linkedin.com/favicon.ico", width="1.5%" height="1.5%">
+      <img src="https://fr.linkedin.com/favicon.ico" width="1.5%" height="1.5%">
       <a href="https://www.linkedin.com/in/yohan-f%C3%A8vre-83104b177/">Linkedin</a>
    </li>
 </ul>
