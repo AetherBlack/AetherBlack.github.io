@@ -12,8 +12,8 @@
 
 <ul>
   <li>
-      <img src="https://fr.linkedin.com/favicon.ico" width="1.5%" height="1.5%">
-      <a href="https://www.linkedin.com/in/yohan-f%C3%A8vre-83104b177/">Linkedin</a>
+      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="1.5%" height="1.5%">
+      <a href="https://www.linkedin.com/in/yfevre/">Linkedin</a>
    </li>
 </ul>
 
