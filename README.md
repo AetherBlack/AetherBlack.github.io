@@ -43,6 +43,13 @@
 <ul>
   <li>Mars@hack 2022 - <a href="https://lespireshat.medium.com/mars-hack-2022-break-safe-code-2-easy-write-up-b46183689696">Break safe code - 2 Easy</a></li>
   <li>Capture The Talent - Pwn Write-Up : <a href="https://lespireshat.medium.com/capture-the-talent-pwn-write-up-global-pandemic-ef12389937f0">Global Pandemic</a></li>
+  <li>Sthack 2022 - <a href="https://lespireshat.medium.com/sthack-2022-pwn-reverse-write-ups-f6a0983b0bc6">Pwn,Reverse Write-Ups</a></li> 
+</ul>
+
+## Articles
+
+<ul>
+  <li>Adacis - <a href="https://www.adacis.net/analyse-lockbit/">Analyse du Ransomware Lockbit</a></li>
 </ul>
 
 ## Presse
